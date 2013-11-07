@@ -1,4 +1,4 @@
-Options +FollowSymLinks
 RewriteEngine on
-RewriteCond %{HTTP_HOST} ^friosworld\.com$ [NC]
-RewriteRule ^(.*)$ http://www.friosworld.com/$1 [R=301,L]
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^(.*)$ index.php?url=$1 [L,QSA]
