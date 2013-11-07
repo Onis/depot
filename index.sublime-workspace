@@ -1,0 +1,306 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"head",
+				"header"
+			],
+			[
+				"pare",
+				"parentId"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"pa",
+				"parentId"
+			],
+			[
+				"in",
+				"input"
+			],
+			[
+				"sele",
+				"selectTree"
+			],
+			[
+				"tr",
+				"tree"
+			],
+			[
+				"for",
+				"foreach	foreach …"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"req",
+				"requiresAllFiles"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"co",
+				"controller"
+			],
+			[
+				"if",
+				"if	if … end"
+			],
+			[
+				"si",
+				"size"
+			],
+			[
+				"att",
+				"attempt"
+			],
+			[
+				"sel",
+				"self"
+			],
+			[
+				"ma",
+				"match_check"
+			],
+			[
+				"Ha",
+				"Hangman"
+			],
+			[
+				"Ro",
+				"routing"
+			],
+			[
+				"max",
+				"max_money"
+			],
+			[
+				"lin",
+				"linpp	link_to (nested path plural)"
+			],
+			[
+				"ite",
+				"item1"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/var/www/depot2/views/delete.php",
+		"/var/www/depot2/views/edit.php",
+		"/var/www/depot2/views/create.php",
+		"/var/www/depot2/actions.php",
+		"/var/www/depot2/index.php",
+		"/var/www/depot2/db.php",
+		"/var/www/depot2/db.sql",
+		"/var/www/depot/db.sql",
+		"/var/www/depot/Model.php",
+		"/var/www/depot/views/js/default.js",
+		"/var/www/depot/Controller.php",
+		"/var/www/depot/views/create.php",
+		"/var/www/depot/views/index.php",
+		"/var/www/depot/libs/View.php",
+		"/var/www/depot/bootstrap.php",
+		"/var/www/depot/.htaccess",
+		"/var/www/depot/views/default/footer.php",
+		"/var/www/depot/views/footer.php",
+		"/var/www/depot/views/default/header.php",
+		"/var/www/depot/views/js/jquery.min.js",
+		"/var/www/depot/libs/Database.php",
+		"/var/www/depot/index.sublime-project",
+		"/var/www/depot/Libs/Database.php",
+		"/var/www/warehouse/config.php",
+		"/var/www/warehouse/index.php",
+		"/var/www/tree/bootstraping.php",
+		"/var/www/tree/config.php",
+		"/var/www/tree/index.php",
+		"/var/www/tree/views/header.php",
+		"/var/www/tree/views/footer.php",
+		"/var/www/tree/.htaccess",
+		"/home/damir/Work/JavaScript/index.html",
+		"/var/www/1.php",
+		"/home/damir/Work/JavaScript/script.js",
+		"/home/damir/Work/depot/app/models/product.rb",
+		"/home/damir/Work/depot/test/controllers/products_controller_test.rb",
+		"/home/damir/Work/depot/test/models/product_test.rb",
+		"/home/damir/Work/depot/.gitignore",
+		"/home/damir/Work/depot/app/views/products/index.html.erb",
+		"/home/damir/Work/depot/db/seeds.rb",
+		"/home/damir/Work/depot/app/assets/stylesheets/application.css",
+		"/home/damir/Work/depot/app/views/layouts/application.html.erb",
+		"/home/damir/Work/depot/app/assets/stylesheets/products.css.scss",
+		"/home/damir/Work/depot/app/views/products/_form.html.erb",
+		"/home/damir/Work/depot/db/migrate/20131031171850_create_products.rb",
+		"/home/damir/Work/depot/db/migrate/20131031170308_create_products.rb",
+		"/home/damir/Work/Ruby/hangman.rb",
+		"/home/damir/Work/Ruby/learn_ruby.rb",
+		"/home/damir/Work/Ruby/6.1.rb",
+		"/home/damir/Work/Ruby/program.rb",
+		"/var/www/CMS/app/classes/routing.class.php",
+		"/var/www/CMS/index.php",
+		"/var/www/CMS/README.md",
+		"/var/www/CMS/.htaccess",
+		"/home/damir/Work/Ruby/method.rb",
+		"/home/damir/Work/screencasts/4/operators.rb",
+		"/home/damir/Work/Ruby/magic_bridge.rb",
+		"/var/www/1.html",
+		"/home/damir/Work/screencasts/1/hello_world.rb",
+		"/home/damir/Work/screencasts/2/strings_and_numbers.rb",
+		"/home/damir/Work/demo/app/views/say/goodbye.html.erb",
+		"/home/damir/Work/demo/app/controllers/say_controller.rb",
+		"/home/damir/Work/demo/app/views/say/hello.html.erb",
+		"/home/damir/Work/screencasts/10/objects_and_clases.rb",
+		"/home/damir/Work/screencasts/8/while.rb",
+		"/home/damir/Work/screencasts/9/method.rb",
+		"/home/damir/Work/screencasts/6/conditions.rb",
+		"/home/damir/Work/screencasts/3/variables.rb"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 158.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

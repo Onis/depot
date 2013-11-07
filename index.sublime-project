@@ -1,0 +1,13 @@
+{
+	"folders":
+	[
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/depot"
+		},
+		{
+			"follow_symlinks": true,
+			"path": "/var/www/depot2"
+		}
+	]
+}
